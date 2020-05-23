@@ -111,6 +111,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 
 * Windows Subsystem for Linux announced in partnership with Canonical
 * Joins Linux Foundation
+* Joins Eclipse Foundation
 * Open sources PowerShell, releases Linux build
 * Begins porting Sysinternals to Linux
 * Acquires Xamarin, relicenses Mono under MIT
@@ -236,6 +237,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Apache Spark
 * Linux Foundation
 * Cloud Native Computing Foundation
+* Eclipse Foundation
 * OpenDaylight
 * Open Container Initiative
 * R Consortium
