@@ -51,9 +51,9 @@ This listing could not possibly be complete, so please open PRs with any additio
 
 * Begins contributing to Linux kernel
 * Forms independent CodePlex Foundation, later known as Outercurve Foundation to promote open source
-* Apoligizes after download is found to have GPL code, properly open sources download
+* Apologizes after download is found to have GPL code, properly open sources download
 * Promises not to enforce patents against open source implementations of C#, e.g. Mono
-* Settles a dispute with TomTom over FAT32 software patents, avoiding further conflict iwth open source
+* Settles a dispute with TomTom over FAT32 software patents, avoiding further conflict with open source
 * Reaches agreement with EU to provide users a choice of web browsers on Windows installation
 * Platform Strategy Group begins an internal push for embracing open source
 * "Burning the Ships: Transforming Your Company's Culture Through Intellectual Property Strategy" is published on Microsoft's embrace of open collaboration
@@ -84,6 +84,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 
 ### 2013
 
+* Steve Ballmer resigns
 * VM Depot announced, community-driven repository of Linux and BSD virtual machines for Azure
 * "Microsoft's Open Source Company Is a Year Old. But What Is It?" [Wired](https://www.wired.com/2013/04/microsoftopentech/)
 
@@ -259,6 +260,7 @@ Here are list of *selected* projects:
 ### Games
 
 * [Allegiance](https://github.com/FreeAllegiance/Allegiance)
+* [Xbox Live Developer Tools](https://github.com/microsoft/xbox-live-developer-tools)
 
 ### Windows
 
