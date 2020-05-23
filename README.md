@@ -1,6 +1,17 @@
 # Microsoft and Open Source
 
-## History
+This is an unofficial timeline of Microsoft's transition towards open source.
+
+* Timeline
+* Known Active Open Source Collaborations
+* Ongoing Open Source Projects
+* Historic Contributions
+
+This project is not endorsed by Microsoft, Canonical, or any company or project mentioned here.
+
+This listing could not possibly be complete, so please open PRs with any additions.
+
+## Timeline
 
 ### 2002
 
@@ -67,6 +78,7 @@
 * Open sources ASP.NET, MCV, Razor, and Web API under Apache 2.0
 * Forms Microsoft Open Technologies, Inc.
 * Releases TypeScript under Apache 2.0
+* Canonical closes [Ubuntu bug #1](https://fridge.ubuntu.com/2013/05/31/mark-shuttleworth-closes-ubuntu-bug-1/)
 * "Microsoft opens up" [O'Reily](http://radar.oreilly.com/2012/04/microsoft-open-source.html)
 
 ### 2013
@@ -101,11 +113,12 @@
 * SQL Server released for Linux
 * Begins hosting Linux Foundation courses on edX
 * SONiC released, based on Debian GNU/Linux
-* "“The company has become an enthusiastic supporter of Linux and of open source and a very active member of many important projects." - Jim Zemlin, Executive Director of The Linux Foundation
+* "The company has become an enthusiastic supporter of Linux and of open source and a very active member of many important projects." - Jim Zemlin, Executive Director of The Linux Foundation
 * "Why Microsoft is turning into an open-source company" [ZDNet](https://www.zdnet.com/article/why-microsoft-is-turning-into-an-open-source-company/)
 
 ### 2017
 
+* Satya Nadella releases "Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone" describing his vision for an open and collaborative Microsoft
 * Forms Open Source Programs
 * Joins Open Source Initiative
 * Joins Cloud Native Computing Foundation
@@ -120,9 +133,11 @@
 * Joins Open Innovation Network, cross-licenses 60,000 patents with open source community
 * Acquires GitHub
 * "We are all in on open source." - Satya Nadella
+* GitHub Actions is released, providing free CI/CD for open source projects
 * Windows Subsystem for Linux 2 announced powered by Linux kernel
 * PowerShell released as a snap
 * OpenSSH included in Windows
+* Shifts their mobile application strategy to Android, begins contributing to Android developer ecosystem
 * Windows Calculator released as open source
 * "Microsoft may be the world's largest open source contributor" [TechRepublic](https://www.techrepublic.com/article/microsoft-may-be-the-worlds-largest-open-source-contributor-but-developers-dont-yet-care/)
 
@@ -142,6 +157,7 @@
 * Announces Android-based smartphone, Surface Duo
 * Satya Nadella speaks at Red Hat Summit
 * JS Foundation and Node.js Foundation merge to form OpenJS Foundation, Microsoft contributes Electron to OpenJS Foundation
+* Scott Hanselman gives [keynote at NDC London](https://www.youtube.com/watch?v=HUN1j9G1Py8) playing out Microsoft's open source vision
 * "Microsoft: The open source company" [Ars Technica](https://arstechnica.com/gadgets/2019/05/microsoft-the-open-source-company/)
 
 ### 2020
@@ -153,9 +169,10 @@
 * Linux-based Azure Sphere OS released
 * Announces plans to open source Fluid Framework
 * Announces Python for Excel
+* Ad features Ubuntu on Surface Book 3
 * "Microsoft’s romance with open source software is on display at Build 2020" [Ars Technica](https://arstechnica.com/gadgets/2020/05/microsofts-romance-with-open-source-software-on-display-at-build-2020/)
 
-## Active Open Source Collaborations
+## Known Active Open Source Collaborations
 
 * Canonical
 * Red Hat
@@ -196,9 +213,11 @@
 * Open Source Initiative
 * Apache Software Foundation
 
-## Ongoing Projects
+## Ongoing Open Source Projects
 
-opensource.microsoft.com current lists 1,155 open source projects at Microsoft, including:
+**The list below is incomplete.** opensource.microsoft.com current lists 1,155 open source projects at Microsoft and it would not be possible to curate them all here. Click here for access to find them all.
+
+Here are list of *selected* projects:
 
 ### Dev Tools
 
@@ -259,7 +278,7 @@ opensource.microsoft.com current lists 1,155 open source projects at Microsoft, 
 * [SPTAG](https://github.com/microsoft/SPTAG) - A library for fast approximate nearest neighbor search
 * [P](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming
 
-## More
+## More Open Source at Microsoft
 
 * [Organization page on GitHub](https://github.com/microsoft)
 * [Open Source Program Group](https://opensource.microsoft.com/)
