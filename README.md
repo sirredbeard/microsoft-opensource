@@ -120,6 +120,7 @@
 * Windows Subsystem for Linux 2 announced powered by Linux kernel
 * PowerShell released as a snap
 * OpenSSH included in Windows
+* Windows Calculator released as open source
 * "Microsoft may be the world's largest open source contributor" [TechRepublic](https://www.techrepublic.com/article/microsoft-may-be-the-worlds-largest-open-source-contributor-but-developers-dont-yet-care/)
 
 ### 2019
@@ -142,8 +143,9 @@
 
 * Acquires npm
 * Microsoft president Brad Smith admits being wrong about open source
-* Edge port to Linux seen at Build
-* Azure Sphere OS released
+* Edge browser port to Linux seen at Build
+* Releases open source Windows Package Manager
+* Linux-based Azure Sphere OS released
 * Announces plans to open source Fluid Framework
 * Announces Python for Excel
 * "Microsoft’s romance with open source software is on display at Build 2020" [Ars Technica](https://arstechnica.com/gadgets/2020/05/microsofts-romance-with-open-source-software-on-display-at-build-2020/)
@@ -154,12 +156,15 @@
 
 * [Visual Studio Code](https://github.com/Microsoft/vscode/)
 * [ProcDump](https://github.com/Microsoft/ProcDump-for-Linux)
-* [.NET](https://dotnet.microsoft.com/platform/open-source)
+
+### .NET
+
+* [.NET Project](https://dotnet.microsoft.com/platform/open-source)
+* [Roslyn](https://github.com/dotnet/roslyn) - .NET Compiler
 * [MSBuild](https://github.com/Microsoft/msbuild)
 
 ### Web Dev Tools
 
-* [TypeScript](https://github.com/microsoft/TypeScript)
 * [Playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
 * [Blazor](https://github.com/dotnet/blazor)
 
@@ -169,28 +174,40 @@
 * [TensorWatch](https://github.com/microsoft/tensorwatch) - A a debugging and visualization tool designed for data science, deep learning and reinforcement learning
 * [Light Gradient Boosting Machine](https://github.com/Microsoft/LightGBM)
 * [CNTK](https://github.com/Microsoft/CNTK) - A unified deep learning toolkit 
+* [AirSim](https://en.wikipedia.org/wiki/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity
 
 ### Database
 
 * [Citus](https://github.com/citusdata/citus)
 
+### Games
+
+* [Allegiance](https://github.com/FreeAllegiance/Allegiance)
+
 ### Windows
 
 * [Windows Terminal](https://github.com/microsoft/terminal)
 * [PowerToys](https://github.com/microsoft/PowerToys)
+* [Windows Package Manager](https://github.com/microsoft/winget-cli)
 * [React Native for Windows](https://github.com/microsoft/react-native-windows)
 * [Rust/WinRT](https://github.com/microsoft/winrt-rs)
 
 ### Other
 
-* [Bosque](https://github.com/microsoft/BosqueLanguage)
+* [WorldWide Telescope](https://github.com/WorldWideTelescope) - A visualization environment that brings together imagery from the world's best ground- and space-based telescopes
+* [Project Mu](https://microsoft.github.io/mu/) - The UEFI core used in Microsoft Surface and Hyper-V 
+
+### Programming Languages
+
+* [TypeScript](https://github.com/microsoft/TypeScript) - Programming language similar to JavaScript, among the most popular on GitHub
+* [Bosque](https://github.com/microsoft/BosqueLanguage) - An experiment in regularized design for a machine assisted rapid and reliable software development lifecycle
 * [Verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership
 * [SPTAG](https://github.com/microsoft/SPTAG) - A library for fast approximate nearest neighbor search
+* [P](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming
 
 ## More
 
 * [Microsoft organization page on GitHub](https://github.com/microsoft)
-* [Wikipedia list of selected Microsoft open source projects](https://en.wikipedia.org/wiki/Microsoft_and_open_source#Selected_products)
 * [Open Source Program Group](https://opensource.microsoft.com/)
 * [Open Source Blog](https://cloudblogs.microsoft.com/opensource/)
 * [Open Specification Promise](https://docs.microsoft.com/en-us/openspecs/dev_center/ms-devcentlp/1c24c7c8-28b0-4ce1-a47d-95fe1ff504bc)
