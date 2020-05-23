@@ -108,7 +108,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 
 * Windows Subsystem for Linux announced in partnership with Canonical
 * Joins Linux Foundation
-* Open sources Powershell, releases Linux build
+* Open sources PowerShell, releases Linux build
 * Begins porting Sysinternals to Linux
 * Acquires Xamarin, relicenses Mono under MIT
 * Acquires LinkedIn, maintains Apache Kafka
