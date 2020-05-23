@@ -143,8 +143,11 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Windows Subsystem for Linux 2 announced powered by Linux kernel
 * PowerShell released as a snap
 * OpenSSH included in Windows
+* Provides official Ubuntu desktop images in Hyper-V on Windows
+* Beings collaborating with Canonical on cloudinit
 * Shifts their mobile application strategy to Android, begins contributing to Android developer ecosystem
 * Windows Calculator released as open source
+* Gives keynote at Open Source Summit Europe, [Building an Open Source Software Culture at Microsoft](https://www.youtube.com/watch?v=SNOHJf97uQU)
 * "Microsoft may be the world's largest open source contributor" [TechRepublic](https://www.techrepublic.com/article/microsoft-may-be-the-worlds-largest-open-source-contributor-but-developers-dont-yet-care/)
 
 ### 2019
@@ -155,7 +158,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Linux surpasses Windows on Azure
 * Begins adopting open source-style collaboration internally
 * Teams released for Linux
-* Acquires Citus Data, maintains open source
+* Acquires Citus Data, maintains open source project
 * Joins OpenChain
 * Creates Open Application Model with Alibaba Cloud as a Open Web Foundation project
 * Releases new Windows Terminal and PowerToys as open source
@@ -178,12 +181,13 @@ This listing could not possibly be complete, so please open PRs with any additio
 ### 2020
 
 * Acquires npm, the Node package manager
+* Hosts WSLConf, the first conferenced dedicated to WSL
 * Microsoft president Brad Smith admits being wrong about open source
 * Edge browser port to Linux seen at Build
 * Pushes improvements to Chromium upstream
 * Releases open source Windows Package Manager
 * Open sources dataset to help fight COVID-19-related cybersecurity threats
-* Open sources Java exention for SQL Server
+* Open sources Java extension for SQL Server
 * Open sources MSQuic, a Windows NT kernel library for QUIC
 * Open sources Petridish, a neural architecture search algorithm for deep learning
 * Open sources Project Rocket, a software stack to perform live video analysis by AI/ML
@@ -193,6 +197,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Open sources Project Verona, a Rust-inspired research language
 * Upstreams open source improvements to QNNX natural language model
 * Linux-based Azure Sphere OS released
+* Partners with Canonical to provide Ubuntu Pro and Charmed Kubernetes on Azure Arc
 * Announces plans to open source Fluid Framework
 * Announces Python for Excel
 * Ad features Ubuntu on Surface Book 3
@@ -244,7 +249,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 
 **The list below is incomplete.** opensource.microsoft.com current lists 1,155 open source projects at Microsoft and it would not be possible to curate them all here. Click here for access to find them all.
 
-Here are list of *selected* projects:
+Here is a list of *selected* projects:
 
 ### Dev Tools
 
@@ -265,7 +270,7 @@ Here are list of *selected* projects:
 ### AI/ML/Robotics
 
 * [Project Moab](https://github.com/microsoft/moab)
-* [TensorWatch](https://github.com/microsoft/tensorwatch) - A a debugging and visualization tool designed for data science, deep learning and reinforcement learning
+* [TensorWatch](https://github.com/microsoft/tensorwatch) - A debugging and visualization tool designed for data science, deep learning and reinforcement learning
 * [Light Gradient Boosting Machine](https://github.com/Microsoft/LightGBM)
 * [CNTK](https://github.com/Microsoft/CNTK) - A unified deep learning toolkit 
 * [AirSim](https://en.wikipedia.org/wiki/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity
