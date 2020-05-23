@@ -38,12 +38,18 @@
 ### 2009
 
 * Begins contributing to Linux kernel
+* Forms independent CodePlex Foundation, later known as Outercurve Foundation to promote open source
 * Apoligizes after download is found to have GPL code, properly open sources download
 * Promises not to enforce patents against open source implementations of C#, e.g. Mono
 * Settles a dispute with TomTom over FAT32 software patents, avoiding further conflict iwth open source
 * Reaches agreement with EU to provide users a choice of web browsers on Windows installation
 * Platform Strategy Group begins an internal push for embracing open source
 * "Burning the Ships: Transforming Your Company's Culture Through Intellectual Property Strategy" is published on Microsoft's embrace of open collaboration
+* "Has Microsoft lost its war on open source?" [InfoWorld](https://www.infoworld.com/article/2631997/has-microsoft-lost-its-war-on-open-source-.html)
+
+### 2010
+
+* "Microsoft: 'We love open source'" [Network World](https://www.networkworld.com/article/2216878/microsoft---we-love-open-source-.html)
 
 ### 2011
 
@@ -51,6 +57,7 @@
 * Begins contributing code to Samba
 * Exits antitrust oversight by US DOJ
 * Ports Node.js to Windows, upstreams code under Apache License 2.0
+* "Microsoft Embraces Elephant of Open Source" [Wired](https://www.wired.com/2011/10/microsoft-and-hadoop/)
 
 ### 2012
 
@@ -60,10 +67,12 @@
 * Open sources ASP.NET, MCV, Razor, and Web API under Apache 2.0
 * Forms Microsoft Open Technologies, Inc.
 * Releases TypeScript under Apache 2.0
+* "Microsoft opens up" [O'Reily](http://radar.oreilly.com/2012/04/microsoft-open-source.html)
 
 ### 2013
 
 * VM Depot announced, community-driven repository of Linux and BSD virtual machines for Azure
+* "Microsoft's Open Source Company Is a Year Old. But What Is It?" [Wired](https://www.wired.com/2013/04/microsoftopentech/)
 
 ### 2014
 
@@ -71,10 +80,14 @@
 * The full .NET stack, Microsoft's flagship development toolkit, is open sourced and contributed to .NET Foundation
 * Contributes to OpenJDK
 * "Microsoft loves Linux." - Nadella
+* "More open-source at Microsoft? You'd better believe it" [VentureBeat](https://venturebeat.com/2014/10/20/microsoft-open-source/)
 
 ### 2015
 
 * Visual Studio Code released, releases Linux build
+* Co-founds Node.js Foundation
+* Open sources Matter Center, Microsoft's legal practice management software
+* "How Open Source Is Shaping Microsoft's Future" [RedmondMag](https://redmondmag.com/articles/2015/09/01/changing--dna.aspx)
 
 ### 2016
 
@@ -86,22 +99,28 @@
 * Acquires LinkedIn, maintains Apache Kafka
 * SQL Server released for Linux
 * SONiC released, based on Debian GNU/Linux
+* "Why Microsoft is turning into an open-source company" [ZDNet](https://www.zdnet.com/article/why-microsoft-is-turning-into-an-open-source-company/)
 
 ### 2017
 
+* Forms Open Source Programs
 * Joins Open Source Initiative
 * Joins Cloud Native Computing Foundation
 * Joins MariaDB Foundation
 * Acquires Deis
+* Gives keynote at Open Source Summit North America
 * Moves Windows development to git
+* "How Microsoft Is Shifting Focus to Open Source" [The New Stack](https://thenewstack.io/microsoft-shifting-emphasis-open-source/)
 
 ### 2018
 
 * Joins Open Innovation Network, cross-licenses patent portfolio with major open source 
 * Acquires GitHub
-* "We are all in on open source." - Nadella
+* "We are all in on open source." - Satya Nadella
 * Windows Subsystem for Linux 2 announced powered by Linux kernel
 * PowerShell released as a snap
+* OpenSSH included in Windows
+* "Microsoft may be the world's largest open source contributor" [TechRepublic](https://www.techrepublic.com/article/microsoft-may-be-the-worlds-largest-open-source-contributor-but-developers-dont-yet-care/)
 
 ### 2019
 
@@ -112,9 +131,12 @@
 * Teams released for Linux
 * Acquires Citus Data, maintains open source
 * Joins OpenChain
-* Joins Unified Patents Open Source Zone
-* Announces Android-based smartphone
-* Nadella speaks at Red Hat Summit
+* Releases new Windows Terminal and PowerToys as open source
+* Joins Unified Patents Open Source Zone to defend open source from patent trolls
+* Announces Android-based smartphone, Surface Duo
+* Satya Nadella speaks at Red Hat Summit
+* JS Foundation and Node.js Foundation merge to form OpenJS Foundation, Microsoft contributes Electron to OpenJS Foundation
+* "Microsoft: The open source company" [Ars Technica](https://arstechnica.com/gadgets/2019/05/microsoft-the-open-source-company/)
 
 ### 2020
 
@@ -122,6 +144,9 @@
 * Microsoft president Brad Smith admits being wrong about open source
 * Edge port to Linux seen at Build
 * Azure Sphere OS released
+* Announces plans to open source Fluid Framework
+* Announces Python for Excel
+* "Microsoft’s romance with open source software is on display at Build 2020" [Ars Technica](https://arstechnica.com/gadgets/2020/05/microsofts-romance-with-open-source-software-on-display-at-build-2020/)
 
 ## Ongoing Projects
 
@@ -165,7 +190,9 @@
 ## More
 
 * [Microsoft organization page on GitHub](https://github.com/microsoft)
-* [opensource.microsoft.com](https://opensource.microsoft.com/)
+* [Wikipedia list of selected Microsoft open source projects](https://en.wikipedia.org/wiki/Microsoft_and_open_source#Selected_products)
+* [Open Source Program Group](https://opensource.microsoft.com/)
+* [Open Source Blog](https://cloudblogs.microsoft.com/opensource/)
 * [Open Specification Promise](https://docs.microsoft.com/en-us/openspecs/dev_center/ms-devcentlp/1c24c7c8-28b0-4ce1-a47d-95fe1ff504bc)
 * [Microsoft Loves Open Source: Becoming The Largest Contributor - GitHub Universe 2017](https://www.youtube.com/watch?v=LXu80xXwFY0)
 
