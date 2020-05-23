@@ -125,8 +125,10 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Joins Cloud Native Computing Foundation
 * Joins MariaDB Foundation
 * Acquires Deis
+* Announces Linux development with C++ in Visual Studio
 * Gives keynote at Open Source Summit North America
 * Moves Windows development to git
+* [Microsoft Loves Open Source: Becoming The Largest Contributor - GitHub Universe 2017](https://www.youtube.com/watch?v=LXu80xXwFY0)
 * "How Microsoft Is Shifting Focus to Open Source" [The New Stack](https://thenewstack.io/microsoft-shifting-emphasis-open-source/)
 
 ### 2018
@@ -285,8 +287,8 @@ Here are list of *selected* projects:
 * [Open Source Program Group](https://opensource.microsoft.com/)
 * [Open Source Partner Network](https://partner.microsoft.com/en-us/community/open-source)
 * [Open Source Blog](https://cloudblogs.microsoft.com/opensource/)
+* [Command Line Blog](https://devblogs.microsoft.com/commandline/)
 * [Open Specification Promise](https://docs.microsoft.com/en-us/openspecs/dev_center/ms-devcentlp/1c24c7c8-28b0-4ce1-a47d-95fe1ff504bc)
-* [Microsoft Loves Open Source: Becoming The Largest Contributor - GitHub Universe 2017](https://www.youtube.com/watch?v=LXu80xXwFY0)
 
 ## Historic Open Source Contributions
 
