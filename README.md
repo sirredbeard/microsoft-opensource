@@ -322,6 +322,7 @@ Here is a list of *selected* projects:
 * [Open Source Partner Network](https://partner.microsoft.com/en-us/community/open-source)
 * [Open Source Blog](https://cloudblogs.microsoft.com/opensource/)
 * [Command Line Blog](https://devblogs.microsoft.com/commandline/)
+* [Request source code from Microsoft](https://thirdpartysource.microsoft.com/)
 * [Open Specification Promise](https://docs.microsoft.com/en-us/openspecs/dev_center/ms-devcentlp/1c24c7c8-28b0-4ce1-a47d-95fe1ff504bc)
 
 ## Historic Open Source Contributions
