@@ -91,14 +91,16 @@
 
 ### 2016
 
-* Windows Subsystem for Linux announced
+* Windows Subsystem for Linux announced in partnership with Canonical
 * Joins Linux Foundation
 * Open sources Powershell, releases Linux build
 * Begins porting Sysinternals to Linux
-* Acquires Xamarain, relicenses Mono under MIT
+* Acquires Xamarin, relicenses Mono under MIT
 * Acquires LinkedIn, maintains Apache Kafka
 * SQL Server released for Linux
+* Begins hosting Linux Foundation courses on edX
 * SONiC released, based on Debian GNU/Linux
+* "“The company has become an enthusiastic supporter of Linux and of open source and a very active member of many important projects." - Jim Zemlin, Executive Director of The Linux Foundation
 * "Why Microsoft is turning into an open-source company" [ZDNet](https://www.zdnet.com/article/why-microsoft-is-turning-into-an-open-source-company/)
 
 ### 2017
@@ -114,7 +116,7 @@
 
 ### 2018
 
-* Joins Open Innovation Network, cross-licenses patent portfolio with major open source 
+* Joins Open Innovation Network, cross-licenses 60,000 patents with open source community
 * Acquires GitHub
 * "We are all in on open source." - Satya Nadella
 * Windows Subsystem for Linux 2 announced powered by Linux kernel
@@ -126,13 +128,14 @@
 ### 2019
 
 * Visual Studio Code released as a snap
-* GitHub announces GitHub Sponsors
+* GitHub announces GitHub Sponsors, lowers prices
 * Edge browser released based on open source Chromium
 * Linux surpasses Windows on Azure
 * Teams released for Linux
 * Acquires Citus Data, maintains open source
 * Joins OpenChain
 * Releases new Windows Terminal and PowerToys as open source
+* Published exFAT as open specification, contributes patents to OIN, and upstreams driver to Linux kernel
 * Joins Unified Patents Open Source Zone to defend open source from patent trolls
 * Announces Android-based smartphone, Surface Duo
 * Satya Nadella speaks at Red Hat Summit
@@ -150,7 +153,31 @@
 * Announces Python for Excel
 * "Microsoft’s romance with open source software is on display at Build 2020" [Ars Technica](https://arstechnica.com/gadgets/2020/05/microsofts-romance-with-open-source-software-on-display-at-build-2020/)
 
+## Active Open Source Collaborations
+
+Canonical
+Red Hat
+SuSE
+Redis Labs
+Elastic
+Nokia
+Chef
+Puppet
+Apache Cassandra
+Apache Kafka
+Apache Hadoop
+Apache Spark
+Linux Foundation
+CNCF
+OpenDaylight
+Open Container Initiative
+R Consortium
+Open API Initiative
+Confidential Computing Consortium
+
 ## Ongoing Projects
+
+opensource.microsoft.com current lists 1,155 open source projects at Microsoft, including:
 
 ### Dev Tools
 
@@ -179,6 +206,7 @@
 ### Database
 
 * [Citus](https://github.com/citusdata/citus)
+* [Azure Data Studio](https://github.com/microsoft/azuredatastudio)
 
 ### Games
 
@@ -207,8 +235,9 @@
 
 ## More
 
-* [Microsoft organization page on GitHub](https://github.com/microsoft)
+* [Organization page on GitHub](https://github.com/microsoft)
 * [Open Source Program Group](https://opensource.microsoft.com/)
+* [Open Source Partner Network](https://partner.microsoft.com/en-us/community/open-source)
 * [Open Source Blog](https://cloudblogs.microsoft.com/opensource/)
 * [Open Specification Promise](https://docs.microsoft.com/en-us/openspecs/dev_center/ms-devcentlp/1c24c7c8-28b0-4ce1-a47d-95fe1ff504bc)
 * [Microsoft Loves Open Source: Becoming The Largest Contributor - GitHub Universe 2017](https://www.youtube.com/watch?v=LXu80xXwFY0)
