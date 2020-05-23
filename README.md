@@ -2,10 +2,11 @@
 
 This is an unofficial timeline of Microsoft's transition towards open source.
 
-* Timeline
-* Known Active Open Source Collaborations
-* Ongoing Open Source Projects
-* Historic Contributions
+* [Timeline](https://github.com/sirredbeard/microsoft-opensource#timeline)
+* [Known Open Source Collaborations](https://github.com/sirredbeard/microsoft-opensource#known-open-source-collaborations)
+* [Select Open Source Projects](https://github.com/sirredbeard/microsoft-opensource#select-open-source-projects)
+* [More Open Source at Microsoft](https://github.com/sirredbeard/microsoft-opensource#more-open-source-at-microsoft)
+* [Historic Contributions](https://github.com/sirredbeard/microsoft-opensource#historic-open-source-contributions)
 
 This project is not endorsed by Microsoft, Canonical, or any company or project mentioned here.
 
@@ -172,7 +173,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Ad features Ubuntu on Surface Book 3
 * "Microsoft’s romance with open source software is on display at Build 2020" [Ars Technica](https://arstechnica.com/gadgets/2020/05/microsofts-romance-with-open-source-software-on-display-at-build-2020/)
 
-## Known Active Open Source Collaborations
+## Known Open Source Collaborations
 
 * Canonical
 * Red Hat
@@ -213,7 +214,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Open Source Initiative
 * Apache Software Foundation
 
-## Ongoing Open Source Projects
+## Select Open Source Projects
 
 **The list below is incomplete.** opensource.microsoft.com current lists 1,155 open source projects at Microsoft and it would not be possible to curate them all here. Click here for access to find them all.
 
@@ -287,7 +288,7 @@ Here are list of *selected* projects:
 * [Open Specification Promise](https://docs.microsoft.com/en-us/openspecs/dev_center/ms-devcentlp/1c24c7c8-28b0-4ce1-a47d-95fe1ff504bc)
 * [Microsoft Loves Open Source: Becoming The Largest Contributor - GitHub Universe 2017](https://www.youtube.com/watch?v=LXu80xXwFY0)
 
-## Historic Contributions
+## Historic Open Source Contributions
 
 * [Windows File Manager](https://github.com/microsoft/winfile)
 * [GW-BASIC](https://github.com/microsoft/GW-BASIC)
