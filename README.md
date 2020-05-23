@@ -126,6 +126,8 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Joins Cloud Native Computing Foundation
 * Joins MariaDB Foundation
 * Acquires Deis
+* Open sources Git Virtual File System (GVFS), the work done moving Windows to git
+* Opens Microsoft Store to open source applications
 * Announces Linux development with C++ in Visual Studio
 * Gives keynote at Open Source Summit North America
 * Moves Windows development to git
@@ -155,21 +157,41 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Teams released for Linux
 * Acquires Citus Data, maintains open source
 * Joins OpenChain
+* Creates Open Application Model with Alibaba Cloud as a Open Web Foundation project
 * Releases new Windows Terminal and PowerToys as open source
 * Published exFAT as open specification, contributes patents to OIN, and upstreams driver to Linux kernel
+* Stores all public GitHub repos for 1000 years in Svalbard, Norway
 * Joins Unified Patents Open Source Zone to defend open source from patent trolls
-* Announces Android-based smartphone, Surface Duo
+* Announces Android-based smartphone, Surface Duo, with a Linux kernel
+* Open sources SPTAG, a crucial search algorithm used by Microsoft 
+* Open sources SandDance, a data visualization tool
+* Open sources the Microsoft C++ Standard Library
+* Open sources Interpret ML
+* Open sources Quantum Development Kit, a quantum computing SDK
 * Satya Nadella speaks at Red Hat Summit
+* Richard Stallman speaks at Microsoft, states "we should not maintain a burning grudge over actions that ended years ago"
+* Linux Torvalds quoted at Linux Plumbers Conference as saying Microsoft "have changed"
 * JS Foundation and Node.js Foundation merge to form OpenJS Foundation, Microsoft contributes Electron to OpenJS Foundation
 * Scott Hanselman gives [keynote at NDC London](https://www.youtube.com/watch?v=HUN1j9G1Py8) playing out Microsoft's open source vision
 * "Microsoft: The open source company" [Ars Technica](https://arstechnica.com/gadgets/2019/05/microsoft-the-open-source-company/)
 
 ### 2020
 
-* Acquires npm
+* Acquires npm, the Node package manager
 * Microsoft president Brad Smith admits being wrong about open source
 * Edge browser port to Linux seen at Build
+* Pushes improvements to Chromium upstream
 * Releases open source Windows Package Manager
+* Open sources dataset to help fight COVID-19-related cybersecurity threats
+* Open sources Java exention for SQL Server
+* Open sources MSQuic, a Windows NT kernel library for QUIC
+* Open sources Petridish, a neural architecture search algorithm for deep learning
+* Open sources Project Rocket, a software stack to perform live video analysis by AI/ML
+* Open sources Project Bonsai, a machine teaching service
+* Open sources Application Inspector, cross-platform source code security analyzer
+* Open sources TensorWatch, a debugging tool for AI and deep learning
+* Open sources Project Verona, a Rust-inspired research language
+* Upstreams open source improvements to QNNX natural language model
 * Linux-based Azure Sphere OS released
 * Announces plans to open source Fluid Framework
 * Announces Python for Excel
@@ -216,6 +238,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * TODO Group
 * Open Source Initiative
 * Apache Software Foundation
+* iZootoo
 
 ## Select Open Source Projects
 
