@@ -163,6 +163,8 @@ Elastic
 Nokia
 Chef
 Puppet
+HashiCorp
+Nvidia
 Apache Cassandra
 Apache Kafka
 Apache Hadoop
@@ -207,6 +209,11 @@ opensource.microsoft.com current lists 1,155 open source projects at Microsoft, 
 
 * [Citus](https://github.com/citusdata/citus)
 * [Azure Data Studio](https://github.com/microsoft/azuredatastudio)
+
+### Cloud
+
+* [Azure CLI](https://github.com/Azure/azure-cli)
+* [Open Enclave SDK](https://github.com/openenclave/openenclave) - A hardware-agnostic open source library for developing applications that utilize hardware enclaves.
 
 ### Games
 
