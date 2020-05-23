@@ -86,6 +86,7 @@
 
 * Visual Studio Code released, releases Linux build
 * Co-founds Node.js Foundation
+* Joins R Foundation
 * Open sources Matter Center, Microsoft's legal practice management software
 * "How Open Source Is Shaping Microsoft's Future" [RedmondMag](https://redmondmag.com/articles/2015/09/01/changing--dna.aspx)
 
@@ -131,6 +132,7 @@
 * GitHub announces GitHub Sponsors, lowers prices
 * Edge browser released based on open source Chromium
 * Linux surpasses Windows on Azure
+* Begins adopting open source-style collaboration internally
 * Teams released for Linux
 * Acquires Citus Data, maintains open source
 * Joins OpenChain
@@ -155,27 +157,44 @@
 
 ## Active Open Source Collaborations
 
-Canonical
-Red Hat
-SuSE
-Redis Labs
-Elastic
-Nokia
-Chef
-Puppet
-HashiCorp
-Nvidia
-Apache Cassandra
-Apache Kafka
-Apache Hadoop
-Apache Spark
-Linux Foundation
-CNCF
-OpenDaylight
-Open Container Initiative
-R Consortium
-Open API Initiative
-Confidential Computing Consortium
+* Canonical
+* Red Hat
+* SuSE
+* Debian
+* IBM
+* Oracle
+* Kali Linux
+* HashiCorp
+* Whitewater Foundry
+* Redis Labs
+* Elastic
+* Samsung
+* Cloudera
+* Docker
+* Nokia
+* Allianz
+* Chef
+* Puppet
+* HashiCorp
+* Nvidia
+* BMW
+* Apache Cassandra
+* Apache Kafka
+* Apache Hadoop
+* Apache Spark
+* Linux Foundation
+* Cloud Native Computing Foundation
+* OpenDaylight
+* Open Container Initiative
+* R Consortium
+* F# Foundatoin
+* .NET Foundation
+* Open API Initiative
+* Confidential Computing Consortium
+* OpenChain
+* TODO Group
+* Open Source Initiative
+* Apache Software Foundation
 
 ## Ongoing Projects
 
