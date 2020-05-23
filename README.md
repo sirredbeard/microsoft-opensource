@@ -36,7 +36,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 ### 2007
 
 * Open Source Initiative approves Microsoft Public License
-* Provides access to Windows NT kernel for research to universities
+* Provides access to Windows NT kernel source for research to universities
 * Reaches agreement with EU to reduce costs of licensing patents and specifications
 * Scheduled to exit US DOJ antitrust oversight, voluntarily agrees to extended oversight
 
