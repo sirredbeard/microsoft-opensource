@@ -2,9 +2,14 @@
 
 ## History
 
+### 2002
+
+* Microsoft begins experimenting with 'shared source'
+
 ### 2004
 
 * WiX released, the first project from Microsoft under an OSS approved license, is released
+* Begins cross-licensing software patents with Linux vendors
 
 ### 2005
 
@@ -14,6 +19,7 @@
 
 * CodePlex announced
 * Ports PHP to Windowss, upstreams code under PHP license
+* Partners with Novell to improve open source interoperability
 
 ### 2007
 
@@ -26,15 +32,18 @@
 
 * Forms Open Web Foundation with Google, Facebook, Sun, IBM, Apache
 * Joins Apache Software Foundation
-* Partners with Novell to improve open source interoperability
 * Releases source for Singularity, an experimental OS to CodePlex
+* Acquires Powerset, it's first open source acquisition, upstreams code from HBase to Apache Hadoop
 
 ### 2009
 
 * Begins contributing to Linux kernel
 * Apoligizes after download is found to have GPL code, properly open sources download
 * Promises not to enforce patents against open source implementations of C#, e.g. Mono
-* Reaches agreement with EU to provide users a choice of web browsers on installation
+* Settles a dispute with TomTom over FAT32 software patents, avoiding further conflict iwth open source
+* Reaches agreement with EU to provide users a choice of web browsers on Windows installation
+* Platform Strategy Group begins an internal push for embracing open source
+* "Burning the Ships: Transforming Your Company's Culture Through Intellectual Property Strategy" is published on Microsoft's embrace of open collaboration
 
 ### 2011
 
@@ -47,7 +56,7 @@
 
 * Azure begins hosting Linux virtual machines
 * Codeplex supports git
-* Ports Apache Hadoop to Windows, upstreams code under MIT License
+* Ports Apache Hadoop to Windows, upstreams code under MIT 
 * Open sources ASP.NET, MCV, Razor, and Web API under Apache 2.0
 * Forms Microsoft Open Technologies, Inc.
 * Releases TypeScript under Apache 2.0
@@ -121,6 +130,7 @@
 * [Visual Studio Code](https://github.com/Microsoft/vscode/)
 * [ProcDump](https://github.com/Microsoft/ProcDump-for-Linux)
 * [.NET](https://dotnet.microsoft.com/platform/open-source)
+* [MSBuild](https://github.com/Microsoft/msbuild)
 
 ### Web Dev Tools
 
@@ -141,8 +151,9 @@
 
 ### Windows
 
-* [React Native for Windows](https://github.com/microsoft/react-native-windows)
 * [Windows Terminal](https://github.com/microsoft/terminal)
+* [PowerToys](https://github.com/microsoft/PowerToys)
+* [React Native for Windows](https://github.com/microsoft/react-native-windows)
 * [Rust/WinRT](https://github.com/microsoft/winrt-rs)
 
 ### Other
