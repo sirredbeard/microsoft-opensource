@@ -20,7 +20,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 
 ### 2004
 
-* WiX released, the first project from Microsoft under an OSS approved license, is released
+* WiX, the first project from Microsoft under an OSS approved license, is released
 * Begins cross-licensing software patents with Linux vendors
 
 ### 2005
