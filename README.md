@@ -334,13 +334,13 @@ Here is a list of *selected* projects:
 -----
 
 - Linux® is a registered trademark of Linus Torvalds in the United States and/or other countries. [*](https://www.linuxfoundation.org/trademark-usage/)
-- Windows®, Windows 10®, Microsoft®, Visual Studio®, Azure®, and PowerShell® are trademarks or registered trademarks of Microsoft Corporation in the United States and/or other countries. [*](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general.aspx) [**](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/en-us.aspx)
+- Windows®, Windows 10®, Microsoft®, Visual Studio®, Azure®, Build, and PowerShell® are trademarks or registered trademarks of Microsoft Corporation in the United States and/or other countries. [*](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general.aspx) [**](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/en-us.aspx)
 - Ubuntu® and Canonical® are registered  trademark of Canonical Limited in the United States and/or other countries. [*](https://www.ubuntu.com/legal/terms-and-policies/intellectual-property-policy)
 - SUSE® and SUSE Linux Enterprise® are registered trademarks of SUSE in the United States and/or other countries. [*](https://www.suse.com/company/legal/)
 - Red Hat® is a trademark or registered trademark of Red Hat, Inc. in the United States and/or other countries. [*](https://www.redhat.com/en/about/trademark-guidelines-and-policies)
 - Debian® is a registered trademark of Software in the Public Interest, Inc. in the United States and/or other countries. [*](https://www.debian.org/trademark)
 - Kali Linux® and Offensive Security® are registered trademarks of OffSec Services, Ltd. [*](https://www.offensive-security.com/trademark-policy/)
 - Docker® and Docker Hub® are registered trademarks of Docker, Inc. [*](https://www.docker.com/trademark-guidelines)
-- Oracle and Oracle Linux are trademarks or registered tracemarks of Oracle, Inc. [*](https://www.oracle.com/legal/trademarks.html)
+- Oracle and Oracle Linux are trademarks or registered trademarks of Oracle, Inc. [*](https://www.oracle.com/legal/trademarks.html)
 
 All other trademarks mentioned herein are the property of their respective owners and may be registered in the United States and/or other countries.
