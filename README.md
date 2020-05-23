@@ -30,7 +30,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 ### 2006
 
 * CodePlex announced
-* Ports PHP to Windowss, upstreams code under PHP license
+* Ports PHP to Windows, upstreams code under PHP license
 * Partners with Novell to improve open source interoperability
 
 ### 2007
