@@ -57,12 +57,12 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Reaches agreement with EU to provide users a choice of web browsers on Windows installation
 * Platform Strategy Group begins an internal push for embracing open source
 * "Burning the Ships: Transforming Your Company's Culture Through Intellectual Property Strategy" is published on Microsoft's embrace of open collaboration
-* 📺[Microsoft's Ray Ozzie on IP and Open Source](https://www.youtube.com/watch?v=hGNmGd9lT9I)
-* "Has Microsoft lost its war on open source?" [InfoWorld](https://www.infoworld.com/article/2631997/has-microsoft-lost-its-war-on-open-source-.html)
+* 📺 [Microsoft's Ray Ozzie on IP and Open Source](https://www.youtube.com/watch?v=hGNmGd9lT9I)
+* 📰 "Has Microsoft lost its war on open source?" [InfoWorld](https://www.infoworld.com/article/2631997/has-microsoft-lost-its-war-on-open-source-.html)
 
 ### 2010
 
-* "Microsoft: 'We love open source'" [Network World](https://www.networkworld.com/article/2216878/microsoft---we-love-open-source-.html)
+* 📰 "Microsoft: 'We love open source'" [Network World](https://www.networkworld.com/article/2216878/microsoft---we-love-open-source-.html)
 * 📺[OpenSource & Microsoft: Beyond Interoperability](https://www.youtube.com/watch?v=ZYioK5hBwdY)
 
 ### 2011
@@ -83,13 +83,13 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Releases TypeScript under Apache 2.0
 * Canonical closes [Ubuntu bug #1](https://fridge.ubuntu.com/2013/05/31/mark-shuttleworth-closes-ubuntu-bug-1/)
 * 📺[Microsoft, The Cloud and Open Source](https://www.youtube.com/watch?v=sunoAP8XKBY)
-* "Microsoft opens up" [O'Reily](http://radar.oreilly.com/2012/04/microsoft-open-source.html)
+* 📰 "Microsoft opens up" [O'Reily](http://radar.oreilly.com/2012/04/microsoft-open-source.html)
 
 ### 2013
 
 * Steve Ballmer resigns
 * VM Depot announced, community-driven repository of Linux and BSD virtual machines for Azure
-* "Microsoft's Open Source Company Is a Year Old. But What Is It?" [Wired](https://www.wired.com/2013/04/microsoftopentech/)
+* 📰 "Microsoft's Open Source Company Is a Year Old. But What Is It?" [Wired](https://www.wired.com/2013/04/microsoftopentech/)
 
 ### 2014
 
@@ -97,7 +97,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * The full .NET stack, Microsoft's flagship development toolkit, is open sourced and contributed to .NET Foundation
 * Contributes to OpenJDK
 * 📺 "Microsoft loves Linux." - [Satya Nadella](https://www.youtube.com/watch?v=54hHr8ye2kE)
-* "More open-source at Microsoft? You'd better believe it" [VentureBeat](https://venturebeat.com/2014/10/20/microsoft-open-source/)
+* 📰 "More open-source at Microsoft? You'd better believe it" [VentureBeat](https://venturebeat.com/2014/10/20/microsoft-open-source/)
 
 ### 2015
 
@@ -105,7 +105,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Co-founds Node.js Foundation
 * Joins R Foundation
 * Open sources Matter Center, Microsoft's legal practice management software
-* "How Open Source Is Shaping Microsoft's Future" [RedmondMag](https://redmondmag.com/articles/2015/09/01/changing--dna.aspx)
+* 📰 "How Open Source Is Shaping Microsoft's Future" [RedmondMag](https://redmondmag.com/articles/2015/09/01/changing--dna.aspx)
 
 ### 2016
 
@@ -120,7 +120,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * SONiC released, based on Debian GNU/Linux
 * "The company has become an enthusiastic supporter of Linux and of open source and a very active member of many important projects." - Jim Zemlin, Executive Director of The Linux Foundation
 * 📺 [Open Source at Microsoft - Thailand Developer Day 2016](https://www.youtube.com/watch?v=54hHr8ye2kE)
-* "Why Microsoft is turning into an open-source company" [ZDNet](https://www.zdnet.com/article/why-microsoft-is-turning-into-an-open-source-company/)
+* 📰 "Why Microsoft is turning into an open-source company" [ZDNet](https://www.zdnet.com/article/why-microsoft-is-turning-into-an-open-source-company/)
 
 ### 2017
 
@@ -135,8 +135,8 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Announces Linux development with C++ in Visual Studio
 * Gives keynote at Open Source Summit North America
 * Moves Windows development to git
-* 📺[Microsoft Loves Open Source: Becoming The Largest Contributor - GitHub Universe 2017](https://www.youtube.com/watch?v=LXu80xXwFY0)
-* "How Microsoft Is Shifting Focus to Open Source" [The New Stack](https://thenewstack.io/microsoft-shifting-emphasis-open-source/)
+* 📺 [Microsoft Loves Open Source: Becoming The Largest Contributor - GitHub Universe 2017](https://www.youtube.com/watch?v=LXu80xXwFY0)
+* 📰 "How Microsoft Is Shifting Focus to Open Source" [The New Stack](https://thenewstack.io/microsoft-shifting-emphasis-open-source/)
 
 ### 2018
 
@@ -151,8 +151,8 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Beings collaborating with Canonical on cloudinit
 * Shifts their mobile application strategy to Android, begins contributing to Android developer ecosystem
 * Windows Calculator released as open source
-* 📺Gives keynote at Open Source Summit Europe, [Building an Open Source Software Culture at Microsoft](https://www.youtube.com/watch?v=SNOHJf97uQU)
-* "Microsoft may be the world's largest open source contributor" [TechRepublic](https://www.techrepublic.com/article/microsoft-may-be-the-worlds-largest-open-source-contributor-but-developers-dont-yet-care/)
+* 📺 Gives keynote at Open Source Summit Europe, [Building an Open Source Software Culture at Microsoft](https://www.youtube.com/watch?v=SNOHJf97uQU)
+* 📰 "Microsoft may be the world's largest open source contributor" [TechRepublic](https://www.techrepublic.com/article/microsoft-may-be-the-worlds-largest-open-source-contributor-but-developers-dont-yet-care/)
 
 ### 2019
 
@@ -179,8 +179,8 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Richard Stallman speaks at Microsoft, states "we should not maintain a burning grudge over actions that ended years ago"
 * Linux Torvalds quoted at Linux Plumbers Conference as saying Microsoft "have changed"
 * JS Foundation and Node.js Foundation merge to form OpenJS Foundation, Microsoft contributes Electron to OpenJS Foundation
-* 📺Scott Hanselman gives [keynote at NDC London](https://www.youtube.com/watch?v=HUN1j9G1Py8) playing out Microsoft's open source vision
-* "Microsoft: The open source company" [Ars Technica](https://arstechnica.com/gadgets/2019/05/microsoft-the-open-source-company/)
+* 📺 Scott Hanselman gives [keynote at NDC London](https://www.youtube.com/watch?v=HUN1j9G1Py8) playing out Microsoft's open source vision
+* 📰 "Microsoft: The open source company" [Ars Technica](https://arstechnica.com/gadgets/2019/05/microsoft-the-open-source-company/)
 
 ### 2020
 
@@ -205,7 +205,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Announces plans to open source Fluid Framework
 * Announces Python for Excel
 * Ad features Ubuntu on Surface Book 3
-* "Microsoft’s romance with open source software is on display at Build 2020" [Ars Technica](https://arstechnica.com/gadgets/2020/05/microsofts-romance-with-open-source-software-on-display-at-build-2020/)
+* 📰 "Microsoft’s romance with open source software is on display at Build 2020" [Ars Technica](https://arstechnica.com/gadgets/2020/05/microsofts-romance-with-open-source-software-on-display-at-build-2020/)
 
 ## Known Open Source Collaborations
 
