@@ -137,6 +137,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Acquires Deis
 * Open sources Git Virtual File System (GVFS), the work done moving Windows to git
 * Opens Microsoft Store to open source applications
+* Better privacy controls, privacy dashboard, and diagnostic data transparency introduced in Windows
 * Announces Linux development with C++ in Visual Studio
 * Gives keynote at Open Source Summit North America
 * Moves Windows development to git
