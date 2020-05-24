@@ -91,6 +91,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 
 * Steve Ballmer resigns
 * VM Depot announced, community-driven repository of Linux and BSD virtual machines for Azure
+* Microsoft challenges broad US warrant for overseas e-mails and helps create a new law improving e-mail privacy
 * 📰 "Microsoft's Open Source Company Is a Year Old. But What Is It?" [Wired](https://www.wired.com/2013/04/microsoftopentech/)
 
 ### 2014
@@ -149,6 +150,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * "We are all in on open source." - Satya Nadella
 * GitHub Actions is released, providing free CI/CD for open source projects
 * Windows Subsystem for Linux 2 announced powered by Linux kernel
+* Begins using Citus and PostgreSQL on Ubuntu to analyze telemetry from Windows test builds on employee devices
 * PowerShell released as a snap
 * OpenSSH included in Windows
 * Provides official Ubuntu desktop images in Hyper-V on Windows
@@ -163,7 +165,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Visual Studio Code released as a snap
 * GitHub announces GitHub Sponsors, lowers prices
 * Edge browser released based on open source Chromium
-* Linux surpasses Windows on Azure
+* Linux surpasses Windows usage on Azure
 * Begins adopting open source-style collaboration internally
 * Teams released for Linux
 * Acquires Citus Data, maintains open source project
@@ -171,7 +173,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Creates Open Application Model with Alibaba Cloud as a Open Web Foundation project
 * Releases new Windows Terminal and PowerToys as open source
 * Published exFAT as open specification, contributes patents to OIN, and upstreams driver to Linux kernel
-* Stores all public GitHub repos for 1000 years in Svalbard, Norway
+* Stores all public GitHub repos for 1,000 years in Svalbard, Norway
 * Joins Unified Patents Open Source Zone to defend open source from patent trolls
 * Announces Android-based smartphone, Surface Duo, with a Linux kernel
 * Open sources SPTAG, a crucial search algorithm used by Microsoft 
