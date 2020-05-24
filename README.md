@@ -98,6 +98,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 
 * Satya Nadella appointed CEO
 * The full .NET stack, Microsoft's flagship development toolkit, is open sourced and contributed to .NET Foundation
+* Implements AllJoyn support in Windows, contributes code upstream
 * Contributes to OpenJDK
 * 📺 "Microsoft loves Linux." - [Satya Nadella](https://www.youtube.com/watch?v=54hHr8ye2kE)
 * 📰 "More open-source at Microsoft? You'd better believe it" [VentureBeat](https://venturebeat.com/2014/10/20/microsoft-open-source/)
