@@ -79,10 +79,11 @@ This listing could not possibly be complete, so please open PRs with any additio
 
 * Azure begins hosting Linux virtual machines
 * Codeplex supports git
+* Begins contributing to git and collaborates with GitHub on LibGit2
 * Ports Apache Hadoop to Windows, upstreams code under MIT 
 * Open sources ASP.NET, MCV, Razor, and Web API under Apache 2.0
 * Forms Microsoft Open Technologies, Inc.
-* Releases TypeScript under Apache 2.0
+* Releases TypeScript under Apache 2.0, first Microsoft project on GitHub
 * Canonical closes [Ubuntu bug #1](https://fridge.ubuntu.com/2013/05/31/mark-shuttleworth-closes-ubuntu-bug-1/)
 * 📺 [Microsoft, The Cloud and Open Source](https://www.youtube.com/watch?v=sunoAP8XKBY)
 * 📰 "Microsoft opens up" [O'Reily](http://radar.oreilly.com/2012/04/microsoft-open-source.html)
@@ -98,6 +99,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 
 * Satya Nadella appointed CEO
 * The full .NET stack, Microsoft's flagship development toolkit, is open sourced and contributed to .NET Foundation
+* Creates official GitHub prescence
 * Implements AllJoyn support in Windows, contributes code upstream
 * Contributes to OpenJDK
 * 📺 "Microsoft loves Linux." - [Satya Nadella](https://www.youtube.com/watch?v=54hHr8ye2kE)
@@ -236,7 +238,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Allianz
 * Chef
 * Puppet
-* React Native
+* React
 * Flutter
 * HashiCorp
 * Nvidia
