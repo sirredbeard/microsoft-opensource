@@ -35,16 +35,16 @@ This listing could not possibly be complete, so please open PRs with any additio
 
 ### 2007
 
-* Open Source Initiative approves Microsoft Public License
+* Open Source Initiative approves the Microsoft Public License (MS-PL) and Microsoft Reciprocal License (MS-RL)
 * Provides access to Windows NT kernel source for research to universities
-* Open sources IronRuby and IronPython under the Microsoft Public License
-* Open sources xunit under Apache 2.0
+* Open sources IronRuby and IronPython under Microsoft Public License
+* Open sources xunit under Microsoft Public License
 * Reaches agreement with EU to reduce costs of licensing patents and specifications
 * Scheduled to exit US DOJ antitrust oversight, voluntarily agrees to extended oversight
 
 ### 2008
 
-* Forms Open Web Foundation with Google, Facebook, Sun, IBM, Apache
+* Forms Open Web Foundation with Google, Facebook, Sun, IBM, Apache, and others
 * Joins Apache Software Foundation
 * Releases source for Singularity, an experimental OS to CodePlex
 * Begins distributing the open source jQuery JavaScript library with Visual Studio
@@ -96,6 +96,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Steve Ballmer resigns
 * VM Depot announced, community-driven repository of Linux and BSD virtual machines for Azure
 * Microsoft challenges broad US warrant for overseas e-mails and helps create a new law improving e-mail privacy
+* xunit transferred to Outercurve Foundation, relicensed under Apache 2.0
 * 📰 "Microsoft's Open Source Company Is a Year Old. But What Is It?" [Wired](https://www.wired.com/2013/04/microsoftopentech/)
 
 ### 2014
