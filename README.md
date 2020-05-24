@@ -84,7 +84,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Forms Microsoft Open Technologies, Inc.
 * Releases TypeScript under Apache 2.0
 * Canonical closes [Ubuntu bug #1](https://fridge.ubuntu.com/2013/05/31/mark-shuttleworth-closes-ubuntu-bug-1/)
-* 📺[Microsoft, The Cloud and Open Source](https://www.youtube.com/watch?v=sunoAP8XKBY)
+* 📺 [Microsoft, The Cloud and Open Source](https://www.youtube.com/watch?v=sunoAP8XKBY)
 * 📰 "Microsoft opens up" [O'Reily](http://radar.oreilly.com/2012/04/microsoft-open-source.html)
 
 ### 2013
@@ -123,7 +123,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Begins hosting Linux Foundation courses on edX
 * SONiC released, based on Debian GNU/Linux
 * "The company has become an enthusiastic supporter of Linux and of open source and a very active member of many important projects." - Jim Zemlin, Executive Director of The Linux Foundation
-* 📺 [Open Source at Microsoft - Thailand Developer Day 2016](https://www.youtube.com/watch?v=54hHr8ye2kE)
+* 📺 [Open Source at Microsoft](https://www.youtube.com/watch?v=54hHr8ye2kE) at Thailand Developer Day 2016
 * 📰 "Why Microsoft is turning into an open-source company" [ZDNet](https://www.zdnet.com/article/why-microsoft-is-turning-into-an-open-source-company/)
 
 ### 2017
@@ -139,7 +139,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Announces Linux development with C++ in Visual Studio
 * Gives keynote at Open Source Summit North America
 * Moves Windows development to git
-* 📺 [Microsoft Loves Open Source: Becoming The Largest Contributor - GitHub Universe 2017](https://www.youtube.com/watch?v=LXu80xXwFY0)
+* 📺 [Microsoft Loves Open Source: Becoming The Largest Contributor](https://www.youtube.com/watch?v=LXu80xXwFY0) at GitHub Universe 2017
 * 📰 "How Microsoft Is Shifting Focus to Open Source" [The New Stack](https://thenewstack.io/microsoft-shifting-emphasis-open-source/)
 
 ### 2018
@@ -155,7 +155,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Beings collaborating with Canonical on cloudinit
 * Shifts their mobile application strategy to Android, begins contributing to Android developer ecosystem
 * Windows Calculator released as open source
-* 📺 Gives keynote at Open Source Summit Europe, [Building an Open Source Software Culture at Microsoft](https://www.youtube.com/watch?v=SNOHJf97uQU)
+* 📺 [Building an Open Source Software Culture at Microsoft](https://www.youtube.com/watch?v=SNOHJf97uQU) at Open Source Summit Europe
 * 📰 "Microsoft may be the world's largest open source contributor" [TechRepublic](https://www.techrepublic.com/article/microsoft-may-be-the-worlds-largest-open-source-contributor-but-developers-dont-yet-care/)
 
 ### 2019
