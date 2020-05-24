@@ -131,6 +131,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * SQL Server released for Linux
 * Begins hosting Linux Foundation courses on edX
 * SONiC released, based on Debian GNU/Linux
+* Begins opening Reactors worldwide for use by entrepreneurs and open source communities
 * "The company has become an enthusiastic supporter of Linux and of open source and a very active member of many important projects." - Jim Zemlin, Executive Director of The Linux Foundation
 * 📺 [Open Source at Microsoft](https://www.youtube.com/watch?v=54hHr8ye2kE) at Thailand Developer Day 2016
 * 📰 "Why Microsoft is turning into an open-source company" [ZDNet](https://www.zdnet.com/article/why-microsoft-is-turning-into-an-open-source-company/)
