@@ -46,6 +46,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Forms Open Web Foundation with Google, Facebook, Sun, IBM, Apache
 * Joins Apache Software Foundation
 * Releases source for Singularity, an experimental OS to CodePlex
+* Begins distributing the open source jQuery JavaScript library with Visual Studio
 * Acquires Powerset, it's first open source acquisition, upstreams code from HBase to Apache Hadoop
 
 ### 2009
@@ -106,6 +107,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Co-founds Node.js Foundation
 * Joins R Foundation
 * Open sources Matter Center, Microsoft's legal practice management software
+* Open sources Chakra, legacy Microsoft Edge’s JavaScript engine
 * 📰 "How Open Source Is Shaping Microsoft's Future" [RedmondMag](https://redmondmag.com/articles/2015/09/01/changing--dna.aspx)
 
 ### 2016
