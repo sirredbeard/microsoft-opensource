@@ -53,6 +53,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 
 * Begins contributing to Linux kernel
 * Forms independent CodePlex Foundation, later known as Outercurve Foundation to promote open source
+* Open sources ASP.NET MVC under the Microsoft Public License
 * Apologizes after download is found to have GPL code, properly open sources download
 * Promises not to enforce patents against open source implementations of C#, e.g. Mono
 * Settles a dispute with TomTom over FAT32 software patents, avoiding further conflict with open source
@@ -110,6 +111,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Visual Studio Code released, releases Linux build
 * Co-founds Node.js Foundation
 * Joins R Foundation
+* Forms Open Source Programs Office, tasked with enabling and normalizing open source across the company
 * Open sources Matter Center, Microsoft's legal practice management software
 * Open sources Chakra, legacy Microsoft Edge’s JavaScript engine
 * 📰 "How Open Source Is Shaping Microsoft's Future" [RedmondMag](https://redmondmag.com/articles/2015/09/01/changing--dna.aspx)
@@ -133,7 +135,6 @@ This listing could not possibly be complete, so please open PRs with any additio
 ### 2017
 
 * Satya Nadella releases "Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone" describing his vision for an open and collaborative Microsoft
-* Forms Open Source Programs
 * Joins Open Source Initiative
 * Joins Cloud Native Computing Foundation
 * Joins MariaDB Foundation
