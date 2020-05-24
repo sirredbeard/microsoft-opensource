@@ -16,7 +16,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 
 ### 2002
 
-* Microsoft begins experimenting with 'shared source'
+* Microsoft begins experimenting with 'shared source', including SSCLI, the core of .NET
 
 ### 2004
 
