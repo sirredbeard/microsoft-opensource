@@ -223,6 +223,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Debian
 * IBM
 * Oracle
+* Google
 * Kali Linux
 * HashiCorp
 * Whitewater Foundry
@@ -235,6 +236,8 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Allianz
 * Chef
 * Puppet
+* React Native
+* Flutter
 * HashiCorp
 * Nvidia
 * BMW
