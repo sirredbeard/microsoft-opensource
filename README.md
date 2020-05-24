@@ -231,18 +231,19 @@ This listing could not possibly be complete, so please open PRs with any additio
 * IBM
 * Oracle
 * Google
-* Kali Linux
-* HashiCorp
-* Whitewater Foundry
+* Chef
+* Puppet
 * Redis Labs
 * Elastic
 * Samsung
 * Cloudera
 * Docker
 * Nokia
+* HashiCorp
+* PostgreSQL
+* Kali Linux
+* Whitewater Foundry
 * Allianz
-* Chef
-* Puppet
 * React
 * Flutter
 * HashiCorp
@@ -267,6 +268,18 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Open Source Initiative
 * Apache Software Foundation
 * iZootoo
+* Linux Containers on Windows
+* Azure Arc
+* Azure Databricks
+* Azure Linux virtual machines
+* Azure Linux containers
+* Azure-tuned Linux kernel
+* Azure Spring Cloud
+* Azure DevOps
+* Azure HDinsight
+* GitHub Actions
+* Microsoft Defender for Linux
+* StorSimple
 
 ## Select Open Source Projects
 
