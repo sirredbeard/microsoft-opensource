@@ -37,7 +37,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 
 * Open Source Initiative approves Microsoft Public License
 * Provides access to Windows NT kernel source for research to universities
-* Open sources IronRuby and IronPython
+* Open sources IronRuby and IronPython under the Microsoft Public License
 * Reaches agreement with EU to reduce costs of licensing patents and specifications
 * Scheduled to exit US DOJ antitrust oversight, voluntarily agrees to extended oversight
 
@@ -65,6 +65,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 
 ### 2010
 
+* Relicenses IronRuby and IronPython under Apache 2.0
 * 📰 "Microsoft: 'We love open source'" [Network World](https://www.networkworld.com/article/2216878/microsoft---we-love-open-source-.html)
 * 📺[OpenSource & Microsoft: Beyond Interoperability](https://www.youtube.com/watch?v=ZYioK5hBwdY)
 
@@ -73,7 +74,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Acquires Skype, maintains Linux client
 * Begins contributing code to Samba
 * Exits antitrust oversight by US DOJ
-* Ports Node.js to Windows, upstreams code under Apache License 2.0
+* Ports Node.js to Windows, upstreams code under Apache 2.0
 * "Microsoft Embraces Elephant of Open Source" [Wired](https://www.wired.com/2011/10/microsoft-and-hadoop/)
 
 ### 2012
