@@ -37,6 +37,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 
 * Open Source Initiative approves Microsoft Public License
 * Provides access to Windows NT kernel source for research to universities
+* Open sources IronRuby and IronPython
 * Reaches agreement with EU to reduce costs of licensing patents and specifications
 * Scheduled to exit US DOJ antitrust oversight, voluntarily agrees to extended oversight
 
