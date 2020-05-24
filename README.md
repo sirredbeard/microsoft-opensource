@@ -180,6 +180,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Teams released for Linux
 * Acquires Citus Data, maintains open source project
 * Joins OpenChain
+* Admitted to Linux-distros security mailing list
 * Creates Open Application Model with Alibaba Cloud as a Open Web Foundation project
 * Releases new Windows Terminal and PowerToys as open source
 * Published exFAT as open specification, contributes patents to OIN, and upstreams driver to Linux kernel
