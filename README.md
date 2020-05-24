@@ -318,7 +318,7 @@ Here is a list of *selected* projects:
 * [Bosque](https://github.com/microsoft/BosqueLanguage) - An experiment in regularized design for a machine assisted rapid and reliable software development lifecycle
 * [Verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership
 * [SPTAG](https://github.com/microsoft/SPTAG) - A library for fast approximate nearest neighbor search
-* [P](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming
+* [P](https://github.com/p-org/P) - A language for asynchronous event-driven programming
 
 ## More Open Source at Microsoft
 
