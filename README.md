@@ -66,6 +66,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 
 ### 2010
 
+* Signs Joomla! Contributor Agreement and upstreams improvements
 * Relicenses IronRuby and IronPython under Apache 2.0
 * 📰 "Microsoft: 'We love open source'" [Network World](https://www.networkworld.com/article/2216878/microsoft---we-love-open-source-.html)
 * 📺[OpenSource & Microsoft: Beyond Interoperability](https://www.youtube.com/watch?v=ZYioK5hBwdY)
