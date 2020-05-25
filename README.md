@@ -188,6 +188,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Stores all public GitHub repos for 1,000 years in Svalbard, Norway
 * Joins Unified Patents Open Source Zone to defend open source from patent trolls
 * Announces Android-based smartphone, Surface Duo, with a Linux kernel
+* Announces Microsoft Defender for Linux
 * Open sources SPTAG, a crucial search algorithm used by Microsoft 
 * Open sources SandDance, a data visualization tool
 * Open sources the Microsoft C++ Standard Library
