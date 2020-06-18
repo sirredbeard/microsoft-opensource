@@ -218,6 +218,8 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Open sources Application Inspector, cross-platform source code security analyzer
 * Open sources TensorWatch, a debugging tool for AI and deep learning
 * Open sources Project Verona, a memory-safe research language
+* Open sources CLon12 and GLon12 projects, providing OpenCL and OpenGL support on Windows, based on the Mesa project
+* Upstreams improvements to Mesa's core support for OpenCL and SPIR-V
 * Upstreams open source improvements to QNNX natural language model
 * Linux-based Azure Sphere OS released
 * Partners with Canonical to provide Ubuntu Pro and Charmed Kubernetes on Azure Arc
@@ -229,6 +231,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 ## Known Open Source Collaborations
 
 * Canonical
+* Collabora
 * Red Hat
 * SuSE
 * Debian
