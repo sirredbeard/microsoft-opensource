@@ -230,8 +230,8 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Upstreams improvements to Mesa's core support for OpenCL and SPIR-V
 * Upstreams open source improvements to QNNX natural language model
 * Releases [Microsoft Edge for Linux](https://blogs.windows.com/msedgedev/2020/10/20/microsoft-edge-dev-linux/) in developer preview
-* Publishes [CBL-Delridge](), a custom Debian derivative for internal use
-* Publishes [CBL-Mariner](https://github.com/microsoft/CBL-Mariner), a custom Linux From Scrath-style distribution powered by rpm for internal use
+* Publishes [CBL-Delridge](https://packages.microsoft.com/repos/cbl-d/), a custom Debian derivative for internal use
+* Publishes [CBL-Mariner](https://github.com/microsoft/CBL-Mariner), a custom Linux From Scratch-style distribution powered by rpm packages for internal use
 * Linux-based [Azure Sphere OS](https://azure.microsoft.com/en-us/blog/azure-sphere-s-customized-linux-based-os/) released for connecting devices to the Azure Sphere Security Service
 * Partners with Canonical to provide Ubuntu Pro and Charmed Kubernetes on Azure Arc
 * Announces plans to open source Fluid Framework
