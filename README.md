@@ -229,8 +229,10 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Open sources [ION](https://github.com/decentralized-identity/ion), a public permissionless decentralized network identifier based on blockchain
 * Upstreams improvements to Mesa's core support for OpenCL and SPIR-V
 * Upstreams open source improvements to QNNX natural language model
-* Releases [Microsoft Edge for Linux](https://blogs.windows.com/msedgedev/2020/10/20/microsoft-edge-dev-linux/)
-* Linux-based Azure Sphere OS released
+* Releases [Microsoft Edge for Linux](https://blogs.windows.com/msedgedev/2020/10/20/microsoft-edge-dev-linux/) in developer preview
+* Publishes [CBL-Delridge](), a custom Debian derivative for internal use
+* Publishes [CBL-Mariner](https://github.com/microsoft/CBL-Mariner), a custom Linux From Scrath-style distribution powered by rpm for internal use
+* Linux-based [Azure Sphere OS](https://azure.microsoft.com/en-us/blog/azure-sphere-s-customized-linux-based-os/) released for connecting devices to the Azure Sphere Security Service
 * Partners with Canonical to provide Ubuntu Pro and Charmed Kubernetes on Azure Arc
 * Announces plans to open source Fluid Framework
 * Announces Python for Excel
@@ -294,7 +296,6 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Azure DevOps
 * Azure HDinsight
 * GitHub Actions
-* Microsoft Defender for Linux
 * StorSimple
 
 ## Select Open Source Projects
