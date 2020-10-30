@@ -233,6 +233,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Publishes [CBL-Delridge](https://packages.microsoft.com/repos/cbl-d/), a custom Debian derivative for internal use
 * Publishes [CBL-Mariner](https://github.com/microsoft/CBL-Mariner), a custom Linux From Scratch-style distribution powered by rpm packages for internal use
 * Linux-based [Azure Sphere OS](https://azure.microsoft.com/en-us/blog/azure-sphere-s-customized-linux-based-os/) released for connecting devices to the Azure Sphere Security Service
+* [Participates extensively](https://www.phoronix.com/scan.php?page=news_item&px=Microsoft-XDC-2020) at the X.Org Conference, XDC
 * Partners with Canonical to provide Ubuntu Pro and Charmed Kubernetes on Azure Arc
 * Announces plans to open source Fluid Framework
 * Announces Python for Excel
