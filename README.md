@@ -223,7 +223,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Open sources [Calico for Windows](https://cloudblogs.microsoft.com/opensource/2020/09/22/calico-for-windows-goes-open-source/), enabling Windows container network policy support
 * Open sources [ONNX Runtime](https://microsoft.github.io/onnxruntime/), a cross-platform machine learning runtime used by Office 365, Visual Studio, and Bing
 * Open sources [Akri](https://cloudblogs.microsoft.com/opensource/2020/10/20/announcing-akri-open-source-project-building-connected-edge-kubernetes/), a project that extends Kubernetes to leaf devices
-* Open sources [Fluid Framework](https://developer.microsoft.com/en-us/microsoft-365/blogs/fluid-framework-is-now-open-source/)
+* Open sources [Fluid Framework](https://developer.microsoft.com/en-us/microsoft-365/blogs/fluid-framework-is-now-open-source/), a set of libraries for enabling low-latency collaborative data sharing
 * Open sources [Project OneFuzz](https://www.microsoft.com/security/blog/2020/09/15/microsoft-onefuzz-framework-open-source-developer-tool-fix-bugs/), an open source developer tool to find and fix bugs at scale
 * Open sources [SmartNoise Platform](https://blogs.microsoft.com/ai-for-business/differential-privacy/), powered by [OpenDP](https://github.com/opendifferentialprivacy/), which safeguards the privacy of individuals while making useful data available for research
 * Open sources [ION](https://github.com/decentralized-identity/ion), a public permissionless decentralized network identifier based on blockchain
@@ -234,8 +234,8 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Publishes [CBL-Mariner](https://github.com/microsoft/CBL-Mariner), a custom Linux From Scratch-style distribution powered by rpm packages for internal use
 * Linux-based [Azure Sphere OS](https://azure.microsoft.com/en-us/blog/azure-sphere-s-customized-linux-based-os/) released for connecting devices to the Azure Sphere Security Service
 * [Participates extensively](https://www.phoronix.com/scan.php?page=news_item&px=Microsoft-XDC-2020) at the X.Org Conference, XDC
+* Launches Project Freta, a cloud-based service that provides automated full-system volatile memory inspection of Linux systems
 * Partners with Canonical to provide Ubuntu Pro and Charmed Kubernetes on Azure Arc
-* Announces plans to open source Fluid Framework
 * Announces Python for Excel
 * Ad features Ubuntu on Surface Book 3
 * 📰 "Microsoft’s romance with open source software is on display at Build 2020" [Ars Technica](https://arstechnica.com/gadgets/2020/05/microsofts-romance-with-open-source-software-on-display-at-build-2020/)
