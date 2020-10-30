@@ -206,10 +206,11 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Acquires npm, the Node package manager
 * Hosts WSLConf, the first conferenced dedicated to WSL
 * Microsoft president Brad Smith admits being wrong about open source
-* Edge browser port to Linux seen at Build
+* Edge browser port to Linux seen at Microsoft Build
 * Pushes improvements to Chromium upstream
-* Releases open source Windows Package Manager
-* Open sources dataset to help fight COVID-19-related cybersecurity threats
+* Releases open source Windows Package Manager '[winget](https://github.com/microsoft/winget-cli)'
+* Releases [.NET for Apache Spark](https://devblogs.microsoft.com/dotnet/announcing-version-1-0-of-net-for-apache-spark/)
+* Open sources a dataset to help fight COVID-19-related cybersecurity threats
 * Open sources Java extension for SQL Server
 * Open sources MSQuic, a Windows NT kernel library for QUIC
 * Open sources Petridish, a neural architecture search algorithm for deep learning
@@ -219,8 +220,16 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Open sources TensorWatch, a debugging tool for AI and deep learning
 * Open sources Project Verona, a memory-safe research language
 * Open sources CLon12 and GLon12 projects, providing OpenCL and OpenGL support on Windows, based on the Mesa project
+* Open sources [Calico for Windows](https://cloudblogs.microsoft.com/opensource/2020/09/22/calico-for-windows-goes-open-source/), enabling Windows container network policy support
+* Open sources [ONNX Runtime](https://microsoft.github.io/onnxruntime/), a cross-platform machine learning runtime used by Office 365, Visual Studio, and Bing
+* Open sources [Akri](https://cloudblogs.microsoft.com/opensource/2020/10/20/announcing-akri-open-source-project-building-connected-edge-kubernetes/), a project that extends Kubernetes to leaf devices
+* Open sources [Fluid Framework](https://developer.microsoft.com/en-us/microsoft-365/blogs/fluid-framework-is-now-open-source/)
+* Open sources [Project OneFuzz](https://www.microsoft.com/security/blog/2020/09/15/microsoft-onefuzz-framework-open-source-developer-tool-fix-bugs/), an open source developer tool to find and fix bugs at scale
+* Open sources [SmartNoise Platform](https://blogs.microsoft.com/ai-for-business/differential-privacy/), powered by [OpenDP](https://github.com/opendifferentialprivacy/), which safeguards the privacy of individuals while making useful data available for research
+* Open sources [ION](https://github.com/decentralized-identity/ion), a public permissionless decentralized network identifier based on blockchain
 * Upstreams improvements to Mesa's core support for OpenCL and SPIR-V
 * Upstreams open source improvements to QNNX natural language model
+* Releases [Microsoft Edge for Linux](https://blogs.windows.com/msedgedev/2020/10/20/microsoft-edge-dev-linux/)
 * Linux-based Azure Sphere OS released
 * Partners with Canonical to provide Ubuntu Pro and Charmed Kubernetes on Azure Arc
 * Announces plans to open source Fluid Framework
