@@ -49,6 +49,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Releases source for Singularity, an experimental OS to CodePlex
 * Begins distributing the open source jQuery JavaScript library with Visual Studio
 * Acquires Powerset, it's first open source acquisition, upstreams code from HBase to Apache Hadoop
+* Open sources Manage Extensibility Framework under Microsoft Public License
 
 ### 2009
 
@@ -70,6 +71,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Relicenses IronRuby and IronPython under Apache 2.0
 * 📰 "Microsoft: 'We love open source'" [Network World](https://www.networkworld.com/article/2216878/microsoft---we-love-open-source-.html)
 * 📺[OpenSource & Microsoft: Beyond Interoperability](https://www.youtube.com/watch?v=ZYioK5hBwdY)
+* MEF is incorporated into Mono
 
 ### 2011
 
