@@ -49,7 +49,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Releases source for Singularity, an experimental OS to CodePlex
 * Begins distributing the open source jQuery JavaScript library with Visual Studio
 * Acquires Powerset, it's first open source acquisition, upstreams code from HBase to Apache Hadoop
-* Open sources Manage Extensibility Framework under Microsoft Public License
+* Open sources Manage Extensibility Framework under Microsoft Public License, one of the first bits of the .NET framework to be open sourced
 
 ### 2009
 
