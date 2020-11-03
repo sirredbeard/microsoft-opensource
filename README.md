@@ -183,6 +183,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Joins OpenChain
 * Admitted to Linux-distros security mailing list
 * Creates Open Application Model with Alibaba Cloud as a Open Web Foundation project
+* Creates Kubernetes-based Event-Driven Autoscaling (KEDA) with Red Hat as an application autoscaler for Kubernetes
 * Releases new Windows Terminal and PowerToys as open source
 * Published exFAT as open specification, contributes patents to OIN, and upstreams driver to Linux kernel
 * Stores all public GitHub repos for 1,000 years in Svalbard, Norway
