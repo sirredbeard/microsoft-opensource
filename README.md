@@ -99,6 +99,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Steve Ballmer resigns
 * VM Depot announced, community-driven repository of Linux and BSD virtual machines for Azure
 * Microsoft challenges broad US warrant for overseas e-mails and helps create a new law improving e-mail privacy
+* Releases [Coding4Fun Toolkit](https://github.com/Coding4FunProjects/Coding4FunToolkit), a set of open source components for building Windows Phone applications
 * xunit transferred to Outercurve Foundation, relicensed under Apache 2.0
 * 📰 "Microsoft's Open Source Company Is a Year Old. But What Is It?" [Wired](https://www.wired.com/2013/04/microsoftopentech/)
 
