@@ -154,6 +154,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Announces Linux development with C++ in Visual Studio
 * Gives keynote at Open Source Summit North America
 * Moves Windows development to git
+* Microsoft shuts down CodePlex ([announcement](https://devblogs.microsoft.com/bharry/shutting-down-codeplex/))
 * 📺 [Microsoft Loves Open Source: Becoming The Largest Contributor](https://www.youtube.com/watch?v=LXu80xXwFY0) at GitHub Universe 2017
 * 📰 "How Microsoft Is Shifting Focus to Open Source" [The New Stack](https://thenewstack.io/microsoft-shifting-emphasis-open-source/)
 
