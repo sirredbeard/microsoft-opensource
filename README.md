@@ -250,6 +250,14 @@ This listing could not possibly be complete, so please open PRs with any additio
 * [Open sources Power Fx](https://powerapps.microsoft.com/en-us/blog/power-fx-open-source-now-available/)
 * [Releases fully open source compute APIs for Intel GPUs on WSL](https://devblogs.microsoft.com/commandline/oneapi-l0-openvino-and-opencl-coming-to-the-windows-subsystem-for-linux-for-intel-gpus/)
 * [Offers Azure credit for OSI-licensed projects](https://opensource.microsoft.com/azure-credits#credits-overview)
+* Open sources [ONNX Runtime Web](https://github.com/microsoft/onnxruntime), a Javascript library for running ONNX models on browsers and on Node.js.
+* Brings support for [eBDF to Windows](https://github.com/Microsoft/ebpf-for-windows)
+* Becomes a [Strategic Member of the Eclipse Foundation](https://cloudblogs.microsoft.com/opensource/2021/08/03/microsoft-expands-support-with-the-eclipse-foundation/).
+* Releases [Microsoft Build of OpenJDK 11](https://devblogs.microsoft.com/java/announcing-preview-of-microsoft-build-of-openjdk/).
+* Releases [version 1.0 of open-source Dapr](https://github.com/dapr/dapr), a serverless event-driven runtime
+* Releases [version 1.0 of .NET for Apache Spark](https://dotnet.microsoft.com/apps/data/spark),  .NET bindings for Spark, a general-purpose distributed processing engine for analytics over large data sets
+* Releases [WSLg](https://github.com/microsoft/wslg), GUI application support on WSL
+* [Joins the Rust Foundation](https://cloudblogs.microsoft.com/opensource/2021/02/08/microsoft-joins-rust-foundation/).
 
 ## Known Open Source Collaborations
 
@@ -310,6 +318,7 @@ Here is a list of *selected* projects:
 
 * [Visual Studio Code](https://github.com/Microsoft/vscode/)
 * [ProcDump](https://github.com/Microsoft/ProcDump-for-Linux)
+* [ProcMon](https://github.com/Sysinternals/ProcMon-for-Linux)
 
 ### .NET
 
@@ -346,9 +355,7 @@ Here is a list of *selected* projects:
 * Azure Spring Cloud
 * Azure DevOps
 * Azure HDinsight
-* Citus
 * [Open Enclave SDK](https://github.com/openenclave/openenclave) - A hardware-agnostic open source library for developing applications that utilize hardware enclaves.
-
 
 ### Games
 
