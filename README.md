@@ -399,6 +399,9 @@ Here is a list of *selected* projects:
 * [GW-BASIC](https://github.com/microsoft/GW-BASIC)
 * [MS-DOS](https://github.com/microsoft/ms-dos)
 
+-----
+
+Partnerships with the Cloud Native Computing Foundation (CNCF) and contributions of projects into open source (Krustlet, CNAB, Helm, Brigade, and Porter are some great examples coming out of Deis Labs!) 
 
 -----
 
