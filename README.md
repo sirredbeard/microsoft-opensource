@@ -209,10 +209,10 @@ This listing could not possibly be complete, so please open PRs with any additio
 ### 2020
 
 * Acquires npm, the Node package manager
-* Hosts WSLConf, the first conferenced dedicated to WSL
-* Microsoft president Brad Smith admits being wrong about open source
-* Edge browser port to Linux seen at Microsoft Build
-* Pushes improvements to Chromium upstream
+* Hosts WSLConf, the first conference dedicated to WSL
+* Microsoft president Brad Smith admits Microsoft was wrong about open source
+* Microsoft Edge browser on Linux seen at Microsoft Build
+* Push improvements to Chromium upstream
 * Releases open source Windows Package Manager '[winget](https://github.com/microsoft/winget-cli)'
 * Releases [.NET for Apache Spark](https://devblogs.microsoft.com/dotnet/announcing-version-1-0-of-net-for-apache-spark/)
 * Open sources a dataset to help fight COVID-19-related cybersecurity threats
@@ -244,6 +244,12 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Announces Python for Excel
 * Ad features Ubuntu on Surface Book 3
 * 📰 "Microsoft’s romance with open source software is on display at Build 2020" [Ars Technica](https://arstechnica.com/gadgets/2020/05/microsofts-romance-with-open-source-software-on-display-at-build-2020/)
+
+### 2021
+* [Microsoft Edge for Linux reaches stable](https://www.omgubuntu.co.uk/2021/10/microsoft-edge-for-linux-now-stable)
+* [Open sources Power Fx](https://powerapps.microsoft.com/en-us/blog/power-fx-open-source-now-available/)
+* [Releases fully open source compute APIs for Intel GPUs on WSL](https://devblogs.microsoft.com/commandline/oneapi-l0-openvino-and-opencl-coming-to-the-windows-subsystem-for-linux-for-intel-gpus/)
+* [Offers Azure credit for OSI-licensed projects](https://opensource.microsoft.com/azure-credits#credits-overview)
 
 ## Known Open Source Collaborations
 
@@ -292,6 +298,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Apache Software Foundation
 * iZootoo
 * StorSimple
+* Grafana
 
 ## Select Open Source Projects
 
