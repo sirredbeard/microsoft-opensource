@@ -247,11 +247,10 @@ This listing could not possibly be complete, so please open PRs with any additio
 
 ## Known Open Source Collaborations
 
+* SUSE
+* Red Hat
 * Canonical
 * Collabora
-* Red Hat
-* SuSE
-* Debian
 * IBM
 * Oracle
 * Google
@@ -292,16 +291,6 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Open Source Initiative
 * Apache Software Foundation
 * iZootoo
-* Linux Containers on Windows
-* Azure Arc
-* Azure Databricks
-* Azure Linux virtual machines
-* Azure Linux containers
-* Azure-tuned Linux kernel
-* Azure Spring Cloud
-* Azure DevOps
-* Azure HDinsight
-* GitHub Actions
 * StorSimple
 
 ## Select Open Source Projects
@@ -342,7 +331,17 @@ Here is a list of *selected* projects:
 ### Cloud
 
 * [Azure CLI](https://github.com/Azure/azure-cli)
+* Azure Arc
+* Azure Databricks
+* Azure Linux virtual machines
+* Azure Linux containers
+* Azure-tuned Linux kernel
+* Azure Spring Cloud
+* Azure DevOps
+* Azure HDinsight
+* Citus
 * [Open Enclave SDK](https://github.com/openenclave/openenclave) - A hardware-agnostic open source library for developing applications that utilize hardware enclaves.
+
 
 ### Games
 
