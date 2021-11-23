@@ -259,6 +259,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Releases [version 1.0 of .NET for Apache Spark](https://dotnet.microsoft.com/apps/data/spark),  .NET bindings for Spark, a general-purpose distributed processing engine for analytics over large data sets
 * Releases [WSLg](https://github.com/microsoft/wslg), GUI application support on WSL
 * [Joins the Rust Foundation](https://cloudblogs.microsoft.com/opensource/2021/02/08/microsoft-joins-rust-foundation/).
+* Kubernetes-based Event-Driven Autoscaling (KEDA) graduates in the CNCF from Sandbox to an Incubation project ([announcement](https://www.cncf.io/blog/2021/08/18/keda-moves-from-the-cncf-sandbox-to-become-an-incubating-project/))
 * Announces Azure Container Apps, a serverless container service built on top of Kubernetes, KEDA, Envoy and Dapr ([announcement](https://techcommunity.microsoft.com/t5/apps-on-azure/introducing-azure-container-apps-a-serverless-container-service/ba-p/2867265?ocid=AID3042118))
 * Dapr joins CNCF as an Incubation project ([announcement](https://www.cncf.io/blog/2021/11/03/dapr-distributed-application-runtime-joins-cncf-incubator/))
 
