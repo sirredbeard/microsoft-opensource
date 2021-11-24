@@ -242,6 +242,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Launches Project Freta, a cloud-based service that provides automated full-system volatile memory inspection of Linux systems
 * Partners with Canonical to provide Ubuntu Pro and Charmed Kubernetes on Azure Arc
 * Announces Python for Excel
+* Kubernetes-based Event-Driven Autoscaling (KEDA) joins CNCF as a sandbox project ([announcement](https://cloudblogs.microsoft.com/opensource/2020/04/06/kubernetes-event-driven-autoscaling-keda-cncf-sandbox-project/))
 * Ad features Ubuntu on Surface Book 3
 * 📰 "Microsoft’s romance with open source software is on display at Build 2020" [Ars Technica](https://arstechnica.com/gadgets/2020/05/microsofts-romance-with-open-source-software-on-display-at-build-2020/)
 
@@ -258,6 +259,9 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Releases [version 1.0 of .NET for Apache Spark](https://dotnet.microsoft.com/apps/data/spark),  .NET bindings for Spark, a general-purpose distributed processing engine for analytics over large data sets
 * Releases [WSLg](https://github.com/microsoft/wslg), GUI application support on WSL
 * [Joins the Rust Foundation](https://cloudblogs.microsoft.com/opensource/2021/02/08/microsoft-joins-rust-foundation/).
+* Kubernetes-based Event-Driven Autoscaling (KEDA) graduates in the CNCF from Sandbox to an Incubation project ([announcement](https://www.cncf.io/blog/2021/08/18/keda-moves-from-the-cncf-sandbox-to-become-an-incubating-project/))
+* Announces Azure Container Apps, a serverless container service built on top of Kubernetes, KEDA, Envoy and Dapr ([announcement](https://techcommunity.microsoft.com/t5/apps-on-azure/introducing-azure-container-apps-a-serverless-container-service/ba-p/2867265?ocid=AID3042118))
+* Dapr joins CNCF as an Incubation project ([announcement](https://www.cncf.io/blog/2021/11/03/dapr-distributed-application-runtime-joins-cncf-incubator/))
 
 ## Known Open Source Collaborations
 
