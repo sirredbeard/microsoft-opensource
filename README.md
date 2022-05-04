@@ -264,6 +264,9 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Dapr joins CNCF as an Incubation project ([announcement](https://www.cncf.io/blog/2021/11/03/dapr-distributed-application-runtime-joins-cncf-incubator/))
 * Acquires Kinvolk, Berlin-based cloud native open source developer ([announcement](https://azure.microsoft.com/en-us/blog/microsoft-acquires-kinvolk-to-accelerate-containeroptimized-innovation/))
 
+### 2021
+* [Open sources Microsoft 3D Movie Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker)
+
 ## Known Open Source Collaborations
 
 * SUSE
