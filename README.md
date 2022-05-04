@@ -225,7 +225,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Open sources TensorWatch, a debugging tool for AI and deep learning
 * Open sources Project Verona, a memory-safe research language
 * Open sources CLon12 and GLon12 projects, providing OpenCL and OpenGL support on Windows, based on the Mesa project
-* Open sources [Calico for Windows](https://cloudblogs.microsoft.com/opensource/2020/09/22/calico-for-windows-goes-open-source/), enabling Windows container network policy support
+* Collaborates with Tigera to open source [Calico for Windows](https://cloudblogs.microsoft.com/opensource/2020/09/22/calico-for-windows-goes-open-source/), enabling Windows container network policy support
 * Open sources [ONNX Runtime](https://microsoft.github.io/onnxruntime/), a cross-platform machine learning runtime used by Office 365, Visual Studio, and Bing
 * Open sources [Akri](https://cloudblogs.microsoft.com/opensource/2020/10/20/announcing-akri-open-source-project-building-connected-edge-kubernetes/), a project that extends Kubernetes to leaf devices
 * Open sources [Fluid Framework](https://developer.microsoft.com/en-us/microsoft-365/blogs/fluid-framework-is-now-open-source/), a set of libraries for enabling low-latency collaborative data sharing
@@ -252,7 +252,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * [Releases fully open source compute APIs for Intel GPUs on WSL](https://devblogs.microsoft.com/commandline/oneapi-l0-openvino-and-opencl-coming-to-the-windows-subsystem-for-linux-for-intel-gpus/)
 * [Offers Azure credit for OSI-licensed projects](https://opensource.microsoft.com/azure-credits#credits-overview)
 * Open sources [ONNX Runtime Web](https://github.com/microsoft/onnxruntime), a Javascript library for running ONNX models on browsers and on Node.js.
-* Brings support for [eBDF to Windows](https://github.com/Microsoft/ebpf-for-windows)
+* Brings support for [eBPF to Windows](https://github.com/Microsoft/ebpf-for-windows)
 * Becomes a [Strategic Member of the Eclipse Foundation](https://cloudblogs.microsoft.com/opensource/2021/08/03/microsoft-expands-support-with-the-eclipse-foundation/).
 * Releases [Microsoft Build of OpenJDK 11](https://devblogs.microsoft.com/java/announcing-preview-of-microsoft-build-of-openjdk/).
 * Releases [version 1.0 of open-source Dapr](https://github.com/dapr/dapr), a serverless event-driven runtime
@@ -262,6 +262,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Kubernetes-based Event-Driven Autoscaling (KEDA) graduates in the CNCF from Sandbox to an Incubation project ([announcement](https://www.cncf.io/blog/2021/08/18/keda-moves-from-the-cncf-sandbox-to-become-an-incubating-project/))
 * Announces Azure Container Apps, a serverless container service built on top of Kubernetes, KEDA, Envoy and Dapr ([announcement](https://techcommunity.microsoft.com/t5/apps-on-azure/introducing-azure-container-apps-a-serverless-container-service/ba-p/2867265?ocid=AID3042118))
 * Dapr joins CNCF as an Incubation project ([announcement](https://www.cncf.io/blog/2021/11/03/dapr-distributed-application-runtime-joins-cncf-incubator/))
+* Acquires Kinvolk, Berlin-based cloud native open source developer ([announcement](https://azure.microsoft.com/en-us/blog/microsoft-acquires-kinvolk-to-accelerate-containeroptimized-innovation/))
 
 ## Known Open Source Collaborations
 
@@ -311,6 +312,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * iZootoo
 * StorSimple
 * Grafana
+* Tigera
 
 ## Select Open Source Projects
 
