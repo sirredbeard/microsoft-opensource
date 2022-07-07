@@ -8,7 +8,7 @@ This is an unofficial timeline of Microsoft's transition towards open source.
 * [More Open Source at Microsoft](https://github.com/sirredbeard/microsoft-opensource#more-open-source-at-microsoft)
 * [Historic Contributions](https://github.com/sirredbeard/microsoft-opensource#historic-open-source-contributions)
 
-This project is not endorsed by Microsoft, Canonical, or any company or project mentioned here.
+This project is not endorsed by Microsoft or any company or project mentioned here.
 
 This listing could not possibly be complete, so please open PRs with any additions.
 
