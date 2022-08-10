@@ -87,7 +87,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Codeplex supports git
 * Begins contributing to git and collaborates with GitHub on LibGit2
 * Ports Apache Hadoop to Windows, upstreams code under MIT 
-* Open sources ASP.NET, MCV, Razor, and Web API under Apache 2.0
+* Open sources ASP.NET (including MVC, Razor Pages, and Web API) under Apache 2.0
 * Forms Microsoft Open Technologies, Inc.
 * Releases TypeScript under Apache 2.0, first Microsoft project on GitHub
 * Canonical closes [Ubuntu bug #1](https://fridge.ubuntu.com/2013/05/31/mark-shuttleworth-closes-ubuntu-bug-1/)
