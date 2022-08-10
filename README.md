@@ -121,7 +121,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Joins R Foundation
 * Forms Open Source Programs Office, tasked with enabling and normalizing open source across the company
 * Open sources Matter Center, Microsoft's legal practice management software
-* Open sources Chakra, legacy Microsoft Edge’s JavaScript engine
+* Open sources Chakra, legacy Microsoft Edge’s JavaScript engine, and releases a build of Node.js with ChakraCore replacing V8 as the JS engine
 * 📰 "How Open Source Is Shaping Microsoft's Future" [RedmondMag](https://redmondmag.com/articles/2015/09/01/changing--dna.aspx)
 
 ### 2016
