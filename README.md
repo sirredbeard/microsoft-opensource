@@ -171,6 +171,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Beings collaborating with Canonical on cloudinit
 * Shifts their mobile application strategy to Android, begins contributing to Android developer ecosystem
 * Windows Calculator released as open source
+* Windows' File Manager `winfile` from Windows 3.0 released as open source based on the source code from Windows NT4
 * 📺 [Building an Open Source Software Culture at Microsoft](https://www.youtube.com/watch?v=SNOHJf97uQU) at Open Source Summit Europe
 * 📰 "Microsoft may be the world's largest open source contributor" [TechRepublic](https://www.techrepublic.com/article/microsoft-may-be-the-worlds-largest-open-source-contributor-but-developers-dont-yet-care/)
 
