@@ -201,7 +201,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Open sources Quantum Development Kit, a quantum computing SDK
 * Satya Nadella speaks at Red Hat Summit
 * Richard Stallman speaks at Microsoft, states "we should not maintain a burning grudge over actions that ended years ago"
-* Linux Torvalds quoted at Linux Plumbers Conference as saying Microsoft "have changed"
+* Linus Torvalds quoted at Linux Plumbers Conference as saying Microsoft "have changed"
 * JS Foundation and Node.js Foundation merge to form OpenJS Foundation, Microsoft contributes Electron to OpenJS Foundation
 * 📺 Scott Hanselman gives [keynote at NDC London](https://www.youtube.com/watch?v=HUN1j9G1Py8) laying out Microsoft's open source vision
 * 📰 "Microsoft: The open source company" [Ars Technica](https://arstechnica.com/gadgets/2019/05/microsoft-the-open-source-company/)
