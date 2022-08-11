@@ -48,7 +48,7 @@ This listing could not possibly be complete, so please open PRs with any additio
 * Releases source for Singularity, an experimental OS to CodePlex
 * Begins distributing the open source jQuery JavaScript library with Visual Studio
 * Acquires Powerset, it's first open source acquisition, upstreams code from HBase to Apache Hadoop
-* [Open sources](https://web.archive.org/web/20110702223926/http://codebetter.com/glennblock/2008/10/02/mef-going-ms-pl-the-little-engine-that-could/) Manage Extensibility Framework (MEF) under Microsoft Public License, one of the first bits of the .NET framework to be open sourced
+* [Open sources](https://web.archive.org/web/20110702223926/http://codebetter.com/glennblock/2008/10/02/mef-going-ms-pl-the-little-engine-that-could/) Managed Extensibility Framework (MEF) under Microsoft Public License, one of the first bits of the .NET framework to be open sourced
 
 ### 2009
 
