@@ -14,13 +14,12 @@ This listing could not possibly be complete, so please open PRs with any additio
 
 ## Timeline
 
-### 2002
 
 * Microsoft begins experimenting with 'shared source', including SSCLI, the core of .NET
 
 ### 2004
 
-* WiX, the first project from Microsoft under an OSS approved license, is released
+* WiX, the first project from Microsoft under an OSI approved license, is released
 * Begins cross-licensing software patents with Linux vendors
 
 ### 2005
