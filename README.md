@@ -382,7 +382,8 @@ Here is a list of *selected* projects:
 ### Other
 
 * [WorldWide Telescope](https://github.com/WorldWideTelescope) - A visualization environment that brings together imagery from the world's best ground- and space-based telescopes
-* [Project Mu](https://microsoft.github.io/mu/) - The UEFI core used in Microsoft Surface and Hyper-V 
+* [Project Mu](https://microsoft.github.io/mu/) - The UEFI core used in Microsoft Surface and Hyper-V
+* [Z3](https://www.microsoft.com/en-us/research/project/z3-3/) - Satisfiability Modulo Theories (SMT) solver from Microsoft Research
 
 ### Programming Languages
 
